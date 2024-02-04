@@ -56,9 +56,9 @@ canvas {
 }
 
 .text {
-  font-size: 50%;
+  font-size: 100%;
   margin-bottom: 10%;
-  width: 90%;
+  width: 80%;
   height: 80%;
   justify-content: center;
   color: white;
